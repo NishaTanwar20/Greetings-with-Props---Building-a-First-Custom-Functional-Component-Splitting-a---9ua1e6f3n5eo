@@ -5,7 +5,7 @@ export default function Welcome(props){
        
         <React.Fragment>
            <h1>Hey ! {props.name}</h1>
-            <h2>"Welcome to Newton School."</h2>
+            <h2>Welcome to Newton School.</h2>
         </React.Fragment>
     );
     
